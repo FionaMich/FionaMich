@@ -10,7 +10,8 @@
 
 I build software from the phone screen to the server behind it: mobile apps, web platforms, AI agents and the automations that connect them.
 
-- Mobile apps in Flutter, React Native and Swift
+- Mobile apps in Flutter and React Native
+- Web frontends in React, Next.js and Vue.js
 - Backends in Python with Django and C# with .NET, on PostgreSQL and Supabase
 - AI agents and retrieval systems with LangChain, LangGraph and Qdrant, including Graph RAG and corrective RAG
 - Business automation in n8n, Make.com, Zapier and GoHighLevel
@@ -23,13 +24,13 @@ I came to development through technical operations, so I build with the whole pr
 **Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift" alt="Mobile stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile stack" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,html,css" alt="Frontend stack" />
 </p>
 
 **Backend and databases**
