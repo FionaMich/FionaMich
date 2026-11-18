@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Mobile, Web and AI Developer based in Nairobi, Kenya</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/michelle-fiona-a-o-699615218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/michelle-fiona-a-o-699615218/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ## About me
@@ -43,7 +43,7 @@ I came to development through technical operations, so I build with the whole pr
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=7FC8FF" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -57,7 +57,7 @@ I came to development through technical operations, so I build with the whole pr
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,git,github" alt="Cloud and DevOps stack" />
   <br />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-C74634?style=for-the-badge" alt="Oracle Cloud" />
 </p>
 
 ## Work with me
